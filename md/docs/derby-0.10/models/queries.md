@@ -8,7 +8,7 @@ Racer can fetch or subscribe to queries based on a model value or a database-spe
 
 > `query = model.query(collectionName, databaseQuery)`
 > * `collectionName` The name of a collection from which to get documents
-> * `databaseQuery` A query in the database native format, such as a MonogDB query
+> * `databaseQuery` A query in the database native format, such as a MongoDB query
 
 # MongoDB query format
 
